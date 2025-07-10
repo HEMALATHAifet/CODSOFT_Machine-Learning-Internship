@@ -4,7 +4,11 @@ This project predicts the **genre(s)** of a movie based on its **description** u
 
 ## 📁 Dataset Files
 
-Place the following files in the project root or Colab workspace:
+The dataset used in this project is available on Kaggle and must be downloaded manually due to its size.
+
+🔗 **Dataset Source:** [Genre Classification Dataset (IMDB) – Kaggle](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
+
+Place the following files in the project root or Colab workspace after downloading:
 
 - `train_data.txt`: Training data in the format  
   `ID ::: TITLE ::: GENRE ::: DESCRIPTION`
