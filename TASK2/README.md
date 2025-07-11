@@ -1,8 +1,3 @@
-Here is a complete and professional `README.md` file for your **Spam Message Detector** (Task 2 - Machine Learning Internship at CodSoft). It includes everything you requested:
-
----
-
-````markdown
 # 📩 Spam Message Detector (Task 2 - CodSoft Machine Learning Internship)
 
 This project detects whether a given message is **spam** or **not spam** using Natural Language Processing (NLP) techniques and a machine learning model. The model is deployed using **Gradio** for easy web interaction.
@@ -212,16 +207,6 @@ with mlflow.start_run():
     mlflow.log_param("vectorizer", "CountVectorizer")
     mlflow.log_param("classifier", "MultinomialNB")
 ```
-
----
-
-## 🔗 Author
-
-**👩‍💻 A. Hemalatha**
-B.Tech IT | Machine Learning Intern @ CodSoft
-GitHub: \[your-username]
-LinkedIn: \[your-linkedin-url]
-
 ---
 
 ## 📂 Folder Structure
@@ -238,10 +223,4 @@ LinkedIn: \[your-linkedin-url]
 ## 🙌 Thank You!
 
 If you like this project, give it a ⭐ on GitHub and feel free to fork and contribute!
-
-```
-
 ---
-
-Let me know if you'd like me to create the actual files (`requirements.txt`, `notebook`, etc.) or help deploy this to Hugging Face Spaces for free!
-```
