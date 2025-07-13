@@ -1,0 +1,11 @@
+﻿TransactionID,Amount,Location,DeviceType,IsInternational,Class
+1,120.5,USA,Mobile,No,0
+2,999,India,Desktop,Yes,1
+3,30,USA,Mobile,No,0
+4,500,Nigeria,Desktop,Yes,1
+5,100,UK,Mobile,No,0
+6,2000,Russia,Desktop,Yes,1
+7,75,USA,Mobile,No,0
+8,300,Canada,Desktop,No,0
+9,10,USA,Mobile,No,0
+10,1500,China,Desktop,Yes,1
