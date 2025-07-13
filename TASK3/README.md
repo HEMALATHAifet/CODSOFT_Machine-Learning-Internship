@@ -74,15 +74,6 @@ These features were **carefully encoded and processed** to help the machine lear
    - View a **bar chart showing how each feature contributed**
 ---
 
-## 📎 Files Included in This Repo
-
-| File Name                                  | Description                           |
-| ------------------------------------------ | ------------------------------------- |
-| `Credit_card_Fraud_detection_dataset.xlsx` | Cleaned dataset used for training     |
-| `fraud_detection.py`                       | Python script with model + Gradio app |
-| `README.md`                                | Project documentation                 |
----
-
 ## 🌟 What I Learned
 
 * How to preprocess categorical data
